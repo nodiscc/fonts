@@ -16,6 +16,10 @@ Copyright: The League of Moveable Type
 Source: https://github.com/theleagueof/raleway
 License: OFL
 
+Files: /usr/share/fonts/truetype/patrick-hand/*
+Copyright: (c) 2012 Patrick Wagesreiter <mail@patrickragesweiter.at>
+License: OFL
+
 Files: /usr/share/fonts/truetype/hack/*
 Copyright: Christopher Simpkins
 Source: https://github.com/chrissimpkins/Hack
@@ -76,6 +80,10 @@ Copyright: Vinterstille
 Source: http://www.dafont.com/style-bats.font
 License: CC-BY-NC-SA-3.0
 
+Files: /usr/share/ftons/blue-highway/blue-highway.ttf
+Source: http://www.larabiefonts.com/
+Copyright: (c) 1999 Ray Larabie
+License: Larabie license (http://www.larabiefonts.com/donation.html)
 
 Files: debian/*
 Copyright: 2012 Rxtx Project <nodiscc@gmail.com>
